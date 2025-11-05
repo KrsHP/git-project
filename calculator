@@ -5,6 +5,8 @@ print (a+b)
 
 pengurangan = a-b
 penjumlahan = a+b
+perkalian = a*b
 print(a)
 print (penjumlahan)
 print (pengurangan)
+print (perkalian)
